@@ -4,9 +4,12 @@ Apple Shortcut for Disneyland Annual Pass
 # How to use
 1. Take screenshots of your Disneyland annual passes
 2. Place screenshots in an album (not shared) named "Magic Key"
-3. Open the Magic Key.shortcut file in Shortcuts.app
-4. Click "Edit" to see settings
-5. You can limit the # of items returned in case you put more than just your passes into the folder
+3. Run shortcut
+
+# How to configure
+1. Open the Magic Key.shortcut file in Shortcuts.app
+2. Click "Edit" to see settings
+3. You can limit the # of items returned in case you put more than just your passes into the folder
 
 # Tip
 
